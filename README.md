@@ -2,6 +2,8 @@
 
 Local Video Player App With Flutter.
 
+![image](https://github.com/user-attachments/assets/8d4af91b-7126-4015-88bd-7a5a3b3a1475)
+
 # Local Video Player App
 
 A Flutter-based mobile application that allows users to record, select, and play videos directly from their device. Built with Hive for local data storage, this app demonstrates handling video files, managing local storage, and implementing a basic video player with playback controls. 
